@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2013/03/14 17:25:28.000.929,=C:\Users\leonardo\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2014/04/14 09:00:30.000.955,=C:\Users\leonardo\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2014/05/27 17:06:11.000.718,=C:\Users\leonardo\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2014/05/27 17:20:11.000.628,C:\Users\leonardo\Dropbox\--- TTimeZone Delphi\Exemplo\Unit1.dfm=C:\Users\leonardo\Documents\RAD Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2014/05/27 17:20:11.000.628,C:\Users\leonardo\Dropbox\--- TTimeZone Delphi\Exemplo\Unit1.pas=C:\Users\leonardo\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2014/05/27 17:36:24.000.624,C:\Users\leonardo\Dropbox\--- TTimeZone Delphi\Exemplo\Project1.dproj=C:\Users\leonardo\Documents\RAD Studio\Projects\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
